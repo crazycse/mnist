@@ -1,2 +1,3 @@
-# mnist
-trial of mnist keras
+# Mnist
+dataset : mnist 
+API     : keras
